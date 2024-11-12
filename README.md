@@ -1,11 +1,13 @@
 # EmailSender
-/*********************************************
+``` 
+**********************************************
 *                                            *
 *      Desarrollado por Luis Suárez          *
 *      Contacto: unnicksimple@gmail.com      *
 *      Licencia: MIT                         *
 *                                            *
-**********************************************/
+**********************************************
+```
 
 # Envío de Correos Automatizado
 
